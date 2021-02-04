@@ -1,7 +1,7 @@
 # Chocolatify
-![Github license](https://img.shields.io/github/license/dabigaaa/chocolatify.svg)
-![Github Issues](https://img.shields.io/github/issues/dabigaaa/chocolatify.svg)
-![Github Tag](https://img.shields.io/github/tag/dabigaaa/chocolatify.svg)
+![Github license](https://img.shields.io/github/license/NoComment1105/chocolatify.svg)
+![Github Issues](https://img.shields.io/github/issues/NoComment1105/chocolatify.svg)
+![Github Tag](https://img.shields.io/github/tag/NoComment1105/chocolatify.svg)
 [![Discord Chat](https://img.shields.io/badge/chat%20on-discord-7289DA)](https://discord.gg/28N2Eeq2tT)
 
 For people who want their netherite scrap to look like a tasty bar of chocolate!
@@ -17,7 +17,7 @@ I think many poeple can agree that netherite scrap looks like chocolate, so here
 
 | Author   | Role   | Links   |
 |:---------|:-------|:--------|
-| dabigaaa | Pack Lead | [Contributions](https://github.com/dabigaaa/Easier-items-datapck/commits?author=dabigaaa) |
+| NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=NoComment1105) |
 
 ### Versioning
 This pack is 1.16.x at it's oldest. I am **NOT** going to back port any of these changes to any other versions
