@@ -17,7 +17,8 @@ I think many poeple can agree that netherite scrap looks like chocolate, so here
 
 | Author   | Role   | Links   |
 |:---------|:-------|:--------|
-| NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/Easier-items-datapck/commits?author=NoComment1105) |
+| NoComment1105 | Pack Lead | [Contributions](https://github.com/NoComment1105/chocolatify/commits?author=NoComment1105) |
+| ItzChazza | Pack Artist | [Contributions](https://github.com/NoComment1105/chocolatify/commits?author=ItzChazza) |
 
 ### Versioning
 This pack is 1.16.x at it's oldest. I am **NOT** going to back port any of these changes to any other versions
